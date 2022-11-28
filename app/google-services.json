@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260516635871",
+    "project_id": "rivera-bot",
+    "storage_bucket": "rivera-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260516635871:android:ccde673f286ffb569f756a",
+        "android_client_info": {
+          "package_name": "com.rivera.bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260516635871-ok3p874pmdnc629ecr5qvpkte2pfk4s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhjrwzE_xKvi_YFcBPbf120a-J_1rHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260516635871-ok3p874pmdnc629ecr5qvpkte2pfk4s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
